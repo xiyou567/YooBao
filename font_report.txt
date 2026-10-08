@@ -1,0 +1,26 @@
+[1] 加载 Assets/Fonts/simhei.ttf -> ✅ simhei
+[2] 旧资产 Assets/Fonts/simhei SDF.asset
+      name          = simhei SDF
+      guid(路径取)  = 17f4954dc2ea37749bf3649a61c1e91f
+      sourceFontFile= ✅ simhei
+      atlasMode     = Dynamic
+      pointSize     = 817（正常应为 90 左右）
+      字符数        = 106
+      图集页数      = 2
+[3] ✅ 新资产 Assets/Fonts/YooBot SimHei SDF.asset
+      guid = 255aa619cc9d8d74889404483b7056c2
+      name = YooBot SimHei SDF
+[4] 新资产 sourceFontFile = ✅ simhei
+      pointSize = 90（这次应该是 90）
+      动态模式  = Dynamic
+[4] 试生成 "你好柚宝我是玩家发发送"
+      结果   = ✅ 全部成功
+      字符数 = 10
+[4b] 预热后字符数 = 25
+[5] ✅ TMP Settings 默认字体已更新
+[6] 场景 TMP 文本 3 个：
+      [Placeholder] 原字体 = simhei SDF
+      [Text (TMP)] 原字体 = simhei SDF
+      [Text] 原字体 = simhei SDF
+      已全部指向新字体
+[7] ✅ 场景已保存
